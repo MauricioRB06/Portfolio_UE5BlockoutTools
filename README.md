@@ -66,7 +66,8 @@ El paquete contiene:
 
 <p style='text-align: left;'>
 
-**[ <img height="10" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Assets/EN.png"> EN ]** Below are some screenshots of the project: 
+**[ <img height="10" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Assets/EN.png"> EN ]** Below are some screenshots of the project:
+
 **[ <img height="10" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Assets/ES.png"> ES ]** A continuación algunas capturas del proyecto:
 
 </p>
